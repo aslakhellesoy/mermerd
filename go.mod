@@ -1,4 +1,4 @@
-module github.com/KarnerTh/mermerd
+module github.com/aslakhellesoy/mermerd
 
 go 1.19
 

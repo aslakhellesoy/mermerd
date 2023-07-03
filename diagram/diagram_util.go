@@ -2,11 +2,12 @@ package diagram
 
 import (
 	"fmt"
-	"github.com/sirupsen/logrus"
 	"strings"
 
-	"github.com/KarnerTh/mermerd/config"
-	"github.com/KarnerTh/mermerd/database"
+	"github.com/sirupsen/logrus"
+
+	"github.com/aslakhellesoy/mermerd/config"
+	"github.com/aslakhellesoy/mermerd/database"
 )
 
 func getRelation(constraint database.ConstraintResult) ErdRelationType {

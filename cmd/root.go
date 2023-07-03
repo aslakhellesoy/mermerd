@@ -10,11 +10,11 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"github.com/KarnerTh/mermerd/analyzer"
-	"github.com/KarnerTh/mermerd/config"
-	"github.com/KarnerTh/mermerd/database"
-	"github.com/KarnerTh/mermerd/diagram"
-	"github.com/KarnerTh/mermerd/presentation"
+	"github.com/aslakhellesoy/mermerd/analyzer"
+	"github.com/aslakhellesoy/mermerd/config"
+	"github.com/aslakhellesoy/mermerd/database"
+	"github.com/aslakhellesoy/mermerd/diagram"
+	"github.com/aslakhellesoy/mermerd/presentation"
 )
 
 var runConfig string

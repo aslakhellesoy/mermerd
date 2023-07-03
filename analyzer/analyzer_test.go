@@ -3,8 +3,8 @@ package analyzer
 import (
 	"testing"
 
-	"github.com/KarnerTh/mermerd/database"
-	"github.com/KarnerTh/mermerd/mocks"
+	"github.com/aslakhellesoy/mermerd/database"
+	"github.com/aslakhellesoy/mermerd/mocks"
 	"github.com/stretchr/testify/assert"
 )
 

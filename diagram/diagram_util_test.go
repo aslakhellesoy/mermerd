@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/KarnerTh/mermerd/database"
-	"github.com/KarnerTh/mermerd/mocks"
+	"github.com/aslakhellesoy/mermerd/database"
+	"github.com/aslakhellesoy/mermerd/mocks"
 )
 
 func TestGetRelation(t *testing.T) {

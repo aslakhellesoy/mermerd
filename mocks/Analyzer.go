@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	database "github.com/KarnerTh/mermerd/database"
+	database "github.com/aslakhellesoy/mermerd/database"
 	mock "github.com/stretchr/testify/mock"
 )
 
